@@ -42,7 +42,8 @@ a {
     margin-top: 10px;
     font-size: 17px;
     height: 100px;
-
+    overflow: hidden;
+    text-align: justify;
 }
 
 
